@@ -47,6 +47,7 @@
 | :--- | :--- |
 | **[AnimeXind](https://github.com/HariKrishnaSA/AnimeXind)** | This My Anime Project Is Called "AnimeXind" For Reference I Used "HiAnime" Website I will Give The URL Below
 | **[Find_Car_Price](https://github.com/HariKrishnaSA/Find_Car_Price)** | Find Car Price AI is a professional-grade, full-stack machine learning application designed to provide high-precision market valuations for used vehicles. By integrating a Random Forest Regression engine with a futuristic Cyber-Tech UI, the system transforms raw automotive data into an immersive "diagnostic" experience. 
+| **[Real-time QR code automation scanner](https://github.com/HariKrishnaSA/Real-time-QR-code-automation-scanner)** |Developed a real-time QR code automation scanner in Python using OpenCV, Pyzbar, and NumPy. The system processes 720p live video feeds to detect and decode QR codes, rendering dynamic visual HUD overlays and bounding polygons. It features automated browser redirection alongside timestamp-based cooldown logic to prevent duplicate execution.
 
 ---
 
